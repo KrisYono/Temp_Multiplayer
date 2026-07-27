@@ -1,0 +1,57 @@
+# Unity-generated folders
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Unity Version Control / Plastic SCM
+.plastic/
+
+# IDE and editor files
+.vs/
+.idea/
+.vscode/
+ExportedObj/
+.consulo/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Generated builds and packages
+*.apk
+*.aab
+*.app
+*.unitypackage
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Crash and generated service files
+sysinfo.txt
+crashlytics-build.properties
+
+# Generated Addressables output
+/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+/[Aa]ssets/[Ss]treamingAssets/aa.meta
+/[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Third-party demo environment not cleared for redistribution
+/Assets/Tiny_Toony_City_Demo/
+/Assets/Tiny_Toony_City_Demo.meta
