@@ -1,6 +1,10 @@
-# Unity Multiplayer Architecture Prototype
+# Temp Multiplayer — Architecture Prototype
 
-A larger Unity multiplayer experiment featuring LAN flow, reusable application architecture, menus, loading screens, match views, and player interaction systems.
+Larger Unity multiplayer experiment: LAN session flow, reusable app architecture, menus / loading / match UI, and player interaction systems.
+
+## My role
+
+Networking and application architecture — Netcode setup, session flow, UI Toolkit screens, event-driven structure, and interaction zones.
 
 ## Highlights
 
@@ -9,11 +13,11 @@ A larger Unity multiplayer experiment featuring LAN flow, reusable application a
 - Main menu, loading, match, and recap UI
 - Event-driven application architecture
 - Player interaction zones
-- Client and server build configuration
+- Client / server build configuration
 
 ## Technology
 
-- Unity 2022.3.12f1
+- Unity **2022.3.12f1**
 - C#
 - Unity Netcode for GameObjects
 - UI Toolkit
@@ -21,14 +25,14 @@ A larger Unity multiplayer experiment featuring LAN flow, reusable application a
 
 ## Open the project
 
-1. Install Unity Hub and Unity `2022.3.12f1`.
-2. Clone this repository and add it in Unity Hub.
+1. Install Unity `2022.3.12f1`.
+2. Clone and add in Unity Hub.
 3. Open the LAN demo or main menu scene under `Assets/Scenes`.
 
 ## Omitted assets
 
-The `Tiny Toony City` demo environment was intentionally excluded because its redistribution terms were not verified. Some scene references may need to be replaced with your own environment assets.
+The `Tiny Toony City` environment was excluded (redistribution terms unverified). Replace missing scene references with your own environment.
 
-## Project status
+## Status
 
-Archived multiplayer prototype and architecture study.
+Archived multiplayer architecture study — stronger systems demo than the smaller LAN samples.
